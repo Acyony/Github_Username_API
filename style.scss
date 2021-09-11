@@ -1,0 +1,35 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 8rem;
+  padding-top: 7rem;
+  width: 50%;
+  height: 35vh;
+  margin: 0 auto;
+}
+
+.repos {
+  list-style: none;
+  text-align: left;
+  padding: 1rem 10rem;
+}
+
+.repos li {
+  margin: 20px 0;
+}
+
+.tdName_style {
+  padding-right: 4rem;
+}
+
+.anchor_style {
+  text-decoration: none;
+  padding: 2px 5px;
+}
+
+.anchor_style:hover {
+  background-color: powderblue;
+}
